@@ -11,13 +11,14 @@ This is a dynamic ToDo application designed to enhance task management efficienc
 
 ## Deployment
 
-The application is successfully deployed and can be accessed [here](insert_link_here).
+The application is successfully deployed and can be accessed here https://66488e55d44591b47795f2f6--profound-dragon-ef2b74.netlify.app/.
 
 ## Usage
 
-1. **Creating a Task**: To create a new task, click on the input field labeled "Add New Task" and type in the task details. Press the "Add Task" button or hit Enter to add the task to the list.
+1. **Creating a Task**: To create a new task, click on the input field labeled "Task(s) to do" and type in the task details. Press the "Add" button to add the task to the list.
 2. **Completing a Task**: When a task is completed, click on the checkbox next to the task to mark it as completed.
-3. **Deleting a Task**: To delete a task, click on the delete button associated with the task.
+3. **Editing a task**: To edit an existing task, click on the edit button associated with the task.
+4. **Deleting a Task**: To delete a task, click on the delete button associated with the task.
 
 ## Technologies Used
 
