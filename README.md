@@ -11,8 +11,7 @@ This is a dynamic ToDo application designed to enhance task management efficienc
 
 ## Deployment
 
-The application is successfully deployed and can be accessed here https://66488e55d44591b47795f2f6--profound-dragon-ef2b74.netlify.app/.
-
+The application is successfully deployed and can be accessed here: (https://profound-dragon-ef2b74.netlify.app/)
 ## Usage
 
 1. **Creating a Task**: To create a new task, click on the input field labeled "Task(s) to do" and type in the task details. Press the "Add" button to add the task to the list.
